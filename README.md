@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clarote
-- 👀 I’m interested in anything STEM but more specifically I love computer science which is why I made a GitHub account.
-- 🌱 I’m currently learning a little bit of a few different coding languages: HTML, JavaScript, CSS, C++, and Python, because I'm trying to learn how to build webpages. I'm also a freshman in highschool on my school's robotics team so I'm learning highschool topics and robotics. 
+- 👀 I’m interested in anything STEM and hope to major in mechanical engineering when I am older.
+- 🌱 I’m currently learning a little bit of a few different coding languages: HTML, JavaScript, CSS, C++, and Python. I'm also a junior in highschool on my school's FIRST robotics team so I'm learning Java and Arduino-C, along with some robotics stuff. 
 - 💞️ I’m looking to collaborate on anything honestly. Any feedback or constructive criticism that anyone has for me is welcome and greatly appreciated!
 
 <!---
